@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sungchul2/webpack_test_node/issues"
   },
-  "homepage": "https://github.com/sungchul2/webpack_test_node#readme"
+  "homepage": "https://github.com/sungchul2/webpack_test_node#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
