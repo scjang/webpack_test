@@ -1,8 +1,9 @@
 # webpack_test
-Just webpack install test
 
-1. npm install -g webpack, npm install -g lodash
-2. clone this project
-3. npm install command execute
-4. webpack execute command is './node_modules/.bin/webpack src/index.js dist/bundle.js'
-5. src/index.js is entry point and dist/bundle.js is output(destination)
+For testing, follow the steps below
+
+1. Clone this project
+2. Go to the project root directory `cd webpack_test`
+3. Typing `npm install` on your command line tool to install the dependencies.
+4. Typing `./node_modules/.bin/webpack src/index.js dist/bundle.js` to test.
+5. Finally you can see the output file in `dist/bundle.js`.
