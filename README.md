@@ -1,4 +1,4 @@
-# webpack_test_node
+# webpack_test
 hello webpack
 
 Just webpack install test
